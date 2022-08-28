@@ -1,0 +1,1 @@
+// if we see "&" sign anywhere else except in between 'int' and a variable( int &a), then, it stores address and not references.
